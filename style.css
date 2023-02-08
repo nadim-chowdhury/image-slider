@@ -1,0 +1,12 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  width: 64%;
+  margin: 40px;
+  border-radius: 10px;
+  transition: 0.5s;
+}
